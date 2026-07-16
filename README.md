@@ -1,4 +1,7 @@
 # Responsive Resume Cv Smith
+
+> **Created by Antono**
+
 ## [Watch it on youtube](https://youtu.be/oYjseP_Qhv4)
 ### Responsive Resume Cv Smith
 
