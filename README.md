@@ -1,2 +1,26 @@
-Last updated: 2026-09-22 10:11:36 WIB
-Last updated: 2026-09-22 13:43:57 WIB
+# responsive-resume-cv-smith
+
+
+
+## 📋 Overview
+
+This repository contains **16 files** and is built with the following technologies:
+
+HTML
+
+## 🚀 Quick Start
+
+## ✨ Features
+
+- 📝 Auto-generated documentation
+
+## 🛠️ Technologies
+
+HTML
+
+## 📄 License
+
+MIT License
+
+---
+*Last updated: 2026-09-22 14:39:26 WIB*
